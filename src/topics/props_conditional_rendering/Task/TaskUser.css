@@ -63,15 +63,15 @@
 }
 
 .mars{
-    height:120vh;
+    height:100vh;
 }
 
 .rocket{
-    height:120vh;
+    height:106vh;
 }
 
 .rocket2{
-    height:120vh;
+    height:110vh;
 }
 
 .spacesuit{
@@ -79,7 +79,7 @@
 }
 
 .space{
-    height:115vh;
+    height:100vh;
 }
 
 .bgvideo,.bgimage{
@@ -190,9 +190,9 @@ html{
     font-size:12px;
 }
 
-.footer a:hover{
+/* .footer a:hover{
     color:#999;
-}
+} */
 .footer .x{
     font-size: 16px;
     color: white;
@@ -200,4 +200,7 @@ html{
     background-color: rgba(27, 26, 26, 0.808);
     /* border: 1px solid rgb(16, 15, 15); */
     border-radius: 30%;
+}
+.footer .x:hover{
+    background-color: #ffffff34;
 }

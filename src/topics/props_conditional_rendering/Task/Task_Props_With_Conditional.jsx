@@ -9,7 +9,7 @@ const Task_Props_With_Conditional=()=>{
             desc:"",
             btntext:"Watch →",
             imgurl:"",
-            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/20260522_Starship_Flight12_web1080_v2_4755b2a6e3.mp4",
+            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/20260522_Starship_Flight12_web1920_v2_71d68b5ee9.mp4",
             launchdate:"MAY 22, 2026",
             position:"left",
             classname:"flight"
@@ -19,7 +19,7 @@ const Task_Props_With_Conditional=()=>{
             title:"Making life multiplanetary",
             desc:"SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
             btntext:"Explore →",
-            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Mobile_v4_HB_e1d2eda88f.mp4",
+            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Mars_Rotation_Web_HB_d96299f9de.mp4",
             position:"left",
             classname:"mars"
         },
@@ -28,7 +28,7 @@ const Task_Props_With_Conditional=()=>{
             title:"Revolutionizing space technology",
             desc:"SpaceX’s Starship spacecraft and Super Heavy rocket is a fully reusable transportation system designed to carry both crew and cargo to Earth orbit, the Moon, Mars, and beyond.",
             btntext:"Learn More →",
-            imgurl:"https://cdn.pixabay.com/photo/2012/11/28/10/34/rocket-launch-67643_1280.jpg",
+            imgurl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Revolutionizing_Space_Tech_Desktop_ec67ad03c2.jpg",
             position:"right",
             classname:"rocket"
         },
@@ -37,7 +37,7 @@ const Task_Props_With_Conditional=()=>{
             title:"World’s leading launch service provider",
             desc:"SpaceX leads the world in launches with its reliable, reusable rockets and is developing the fully and rapidly reusable rockets necessary to transform humanity’s ability to access space into something as routine as air travel.",
             btntext:"Reserve Your Ride →",
-            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Leading_Launch_Service_Mobile_02email_c06f4154a8.mp4",
+            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Space_X_Falcon_Heavy_UAS_Landing_DESKTOP_compress_b4568daf9c_5e2026727a.mp4",
             position:"left",
             classname:"rocket2"
         },
@@ -46,7 +46,7 @@ const Task_Props_With_Conditional=()=>{
             title:"Advancing human spaceflight",
             desc:"Since returning human spaceflight capabilities to the United States in 2020, SpaceX is helping build a new era where not just hundreds of people, but thousands and ultimately millions will be able to explore space.",
             btntext:"Join A Mission →",
-            imgurl:"https://cdn.pixabay.com/photo/2024/03/18/17/15/ai-generated-8641506_1280.jpg",
+            imgurl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg",
             position:"right",
             classname:"spacesuit"
         },
@@ -55,7 +55,7 @@ const Task_Props_With_Conditional=()=>{
             title:"Delivering high-speed internet from space",
             desc:"Starlink is the world’s most advanced satellite constellation in low-Earth orbit, delivering reliable broadband internet capable of supporting streaming, online gaming, video calls, and more.",
             btntext:"Order Now →",
-            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_10_20250428_Deploy_website_MOBILE_02_6c0f367324.mp4",
+            videourl:"https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_12_10_20250428_Deploy_website_DESKTOP_14fe7e072c.mp4",
             position:"left",
             classname:"space"
         },
@@ -89,7 +89,7 @@ const Task_Props_With_Conditional=()=>{
         </div>
 
         <footer className="footer">
-             <a href="https://x.com" target="space" className="x">X</a>
+             <a href="https://x.com/SpaceX" target="_blank" className="x">X</a>
         <div className="footer1">
          <a href="">CAREERS</a>
          <a href="">UPDATES</a>
