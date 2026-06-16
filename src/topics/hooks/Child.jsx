@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const Child=()=>{
     const [val,setval]=useState(100)
-    const upadteVal=()=>{
+    const updateVal=()=>{
         setval(val+1)
     }
     console.log("child component");
@@ -11,7 +11,7 @@ const Child=()=>{
         <div>
             <h1>child</h1>
         <h2>{val}</h2>
-        <button onClick={upadteVal}>Update val</button>
+        <button onClick={updateVal}>Update val</button>
         </div>
     )
 }
